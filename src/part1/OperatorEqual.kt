@@ -14,7 +14,9 @@ fun main():Unit{
 
     println(a==b)
     println(a==c)
+
     println(d==e)
 }
 
-//뭐지 신기하다
+// == 이 === 의 기능을 포함 하고 있기에
+// ==만 써도 되겠다.(java equals 와 같다)
